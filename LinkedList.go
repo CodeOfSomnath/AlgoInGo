@@ -1,4 +1,4 @@
-package github.com/CodeOfSomnath/AlgoInGo
+package main
 
 import (
 	"fmt"
